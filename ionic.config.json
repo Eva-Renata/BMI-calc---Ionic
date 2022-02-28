@@ -1,0 +1,7 @@
+{
+  "name": "bmicalc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
